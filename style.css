@@ -1,0 +1,16 @@
+.todos{
+  font-size: 30px;
+  text-align: center;
+}
+
+li {
+  padding: 30px;
+}
+
+.delete {
+  color: red;
+}
+
+.box {
+  text-align: center;
+}
